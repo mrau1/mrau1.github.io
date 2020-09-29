@@ -1,0 +1,15 @@
+Symbol,Company,Country,Last,Date,Time,Chg.,% Chg.
+^GSPC,S&P 500 Index,United States,"3,352",9/28/2020,5:06 PM,53.14,0.0161
+ASX.AX,ASX All Ordinaries Index,Australia,"6,145",9/29/2020,10:02 AM,10.5,0.0017
+^HSI,Hang Seng Index,Hong Kong,"23,476",9/28/2020,4:08 PM,240.63,0.0104
+^BSESN,S&P BSE Sensex Index,India,"37,982",9/28/2020,3:30 PM,592.97,0.0159
+^JKII,JSX Composite Index,Indonesia,"4,907",9/28/2020,3:00 PM,-39.243,-0.79%
+^N225,NIKKEI 225 Index,Japan,"23,410",9/29/2020,9:02 AM,-101.98,-0.43%
+^KLSE,FTSE Bursa Malaysia KLCI,Malaysia,"1,512",9/28/2020,5:05 PM,2.52,0.0017
+PSEI.PS,PSEi Index,Phillippines,"5,861",9/28/2020,12:50 PM,22.73,0.0039
+^KS11,KOSPI Composite Index,South Korea,"2,331",9/29/2020,9:02 AM,23.08,0.01
+^FCHI,CAC 40 Index,France,"4,843",9/28/2020,6:05 PM,113.61,0.024
+^GDAXI,DAX,Germany,"12,871",9/28/2020,6:30 PM,401.67,0.0322
+^AEX,Amsterdam AEX Index,Netherlands,551.67,9/28/2020,6:05 PM,10.76,0.0199
+^BUK100P,FTSE 100 Index,United Kingdom,"5,928",9/28/2020,4:59 PM,85.26,0.0146
+^TA125.TA,Tel Aviv 125 Index,Israel,"1,305",9/24/2020,12:00 AM,-19.15,-1.45%
